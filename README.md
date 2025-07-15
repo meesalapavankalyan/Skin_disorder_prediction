@@ -1,9 +1,17 @@
-# Skin_disorder_prediction
-# Data Folder
 
-⚠ The actual dataset is not included in this repo to respect licensing/privacy.
+# 🧴 Skin Disorder Prediction Using Machine Learning
 
-Please add your dataset here if you have permission to share it.
+## 📌 Objective
+Develop a machine learning model to predict six types of skin disorders using clinical and histopathological features. The aim is to aid early diagnosis and reduce unnecessary biopsies, supporting dermatologists in making faster, more confident decisions.
 
-- Original dataset: 366 samples, 34 features.
-- Format: CSV or DataFrame-friendly format.
+---
+
+## 📊 Dataset Overview
+- *Total Samples*: ~366
+- *Total Features*: 34
+  - 12 Clinical features
+  - 22 Histopathological features
+  - Age
+- *Target Variable*: 6 disease classes
+
+The datase
